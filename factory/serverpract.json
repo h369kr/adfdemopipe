@@ -1,0 +1,9 @@
+{
+	"name": "serverpract",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68d229f2-98ae-4343-86fb-f88d5607c3e6",
+		"tenantId": "60b03198-d523-48ae-9a3d-9afa4b321985"
+	}
+}
